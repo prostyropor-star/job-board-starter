@@ -29,6 +29,11 @@ Node 18+ is required. There are no dependencies.
 - **Hiring signals for sales:** see which companies hire for which roles.
 - **Salary research:** compare published pay ranges.
 
+## Want the company list without any API?
+
+- **[Company Careers Directory](https://prostyropor.gumroad.com/l/jxsju)**: all 34,290 companies with careers page, hiring platform, public job-feed URL and open-job count (CSV + Excel).
+- **[Job Board Starter Kit](https://prostyropor.gumroad.com/l/rbhdqp)**: the directory plus scripts that pull live jobs straight from the public feeds, no Apify account needed.
+
 ## Single-platform versions
 
 - [Greenhouse Jobs Scraper](https://apify.com/mistlike_potato/greenhouse-jobs-scraper)
