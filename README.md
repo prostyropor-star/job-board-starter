@@ -32,7 +32,7 @@ Node 18+ is required. There are no dependencies.
 ## Want the company list without any API?
 
 - **[Company Careers Directory](https://prostyropor.gumroad.com/l/jxsju)**: all 34,290 companies with careers page, hiring platform, public job-feed URL and open-job count (CSV + Excel).
-- **[Job Board Starter Kit](https://prostyropor.gumroad.com/l/rbhdqp)**: the directory plus scripts that pull live jobs straight from the public feeds, no Apify account needed.
+- **[Job Board Starter Kit](https://prostyropor.gumroad.com/l/rbhdqp)**: the directory plus ready-to-run scripts to filter companies and build a live job board page (live jobs via the Apify scraper, free Apify account needed).
 - **[Hiring Signals Lead List](https://prostyropor.gumroad.com/l/hzgeh)**: 2,386 companies hiring now by role category (sales, DevOps, data, security, marketing, recruiting), for B2B prospecting.
 - **[DACH Hiring Companies](https://prostyropor.gumroad.com/l/aauyd)**: 770 companies hiring in Germany, Austria and Switzerland.
 - Free preview: [Companies Hiring Now](https://prostyropor-star.github.io/companies-hiring-now/).
